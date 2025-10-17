@@ -15,10 +15,15 @@ It combines **machine learning (ML)** signals with **LLM-based reasoning** to de
 ## 🎯 Features
 
 ✅ **Email Classification:** Detects spam, phishing, and fraudulent patterns in email text.
+
 ✅ **LLM-based Risk Scoring:** Generates a 0-100 “risk score” with a short rationale for interpretability.
+
 ✅ **Batch Processing:** Analyze multiple emails simultaneously via the app interface.
+
 ✅ **Modern UI:** Interactive dashboard built with Streamlit for visualization and results.
+
 ✅ **Explainable AI:** Combines statistical classification with LLM judgment prompts for human-readable risk explanations.
+
 ✅ **Secure Local Execution:** Works fully offline — no data leaves your system.
 
 ---
